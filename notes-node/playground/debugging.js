@@ -2,7 +2,7 @@ var person = {
   name: 'Tudor',
 };
 
-person.age = 29;
+person.age = 30;
 debugger;
 person.name = 'Lorena';
 
