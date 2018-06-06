@@ -11,7 +11,7 @@ const [titleOptions, bodyOptions] = [{
 {
   describe: 'The body of the note',
   demand: true,
-  alias: 'b'
+  alias: 'b' 
 }];
 
 const argv = yargs
